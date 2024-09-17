@@ -28,7 +28,7 @@ In today’s fast-paced environment, predicting accurate delivery times can sign
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/food-delivery-time-prediction.git
+   https://github.com/Adithya-Siddam/Delivery-Time-Prediction.git
     ```
 2. Install the required libraries:
     ```bash
